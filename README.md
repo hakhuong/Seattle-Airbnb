@@ -10,8 +10,11 @@ This analysis seeks the answer for 3 questions:
 ## About this Repo
 There are 2 Jupyter Notebook files in this repo
 
-1. Initial EDA & Prepare data for Modeling
+**1. Initial EDA & Prepare data for Modeling**
   - Output: 4 csv files saved in treated_date folder
-2. Detailed EDA & Modeling
+
+**2. Detailed EDA & Modeling**
   - Output: Answers for 3 questions proposed
 
+## Article write up
+Please go to this link for a insights report: https://medium.com/@khuongthanhha/becoming-a-new-airbnb-host-this-is-what-you-need-to-know-9634ea0d3ceb
